@@ -1,4 +1,4 @@
 # hello-world
-very first repo:)
+the first repo:)
 readme file update
 another update
